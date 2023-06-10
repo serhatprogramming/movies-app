@@ -6,17 +6,17 @@ import App from "./App";
 const movies = [
   {
     id: 1,
-    title: "The Godfather (1972)",
+    title: "The Godfather",
     watchList: true,
   },
   {
     id: 2,
-    title: "The Shawshank Redemption (1994)",
+    title: "The Shawshank Redemption",
     watchList: false,
   },
   {
     id: 3,
-    title: "The Lord of the Rings: The Return of the King (2003)",
+    title: "The Lord of the Rings: The Return of the King",
     watchList: true,
   },
 ];
